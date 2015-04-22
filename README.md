@@ -1,8 +1,8 @@
-> We have released a new version of this SDK.
-> https://github.com/box/box-ios-content-sdk
+We have released a new version of this SDK: https://github.com/box/box-ios-content-sdk
+==========================
 
 BoxSDK: Box API V2 iOS SDK
-==========================
+--------------------------
 
 [![Build Status](https://travis-ci.org/box/box-ios-sdk-v2.png?branch=master)](https://travis-ci.org/box/box-ios-sdk-v2)
 [![Version](https://cocoapod-badges.herokuapp.com/v/box-ios-sdk-v2/badge.png)](http://cocoadocs.org/docsets/box-ios-sdk-v2)
