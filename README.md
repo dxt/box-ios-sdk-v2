@@ -1,3 +1,6 @@
+> We have released a new version of this SDK.
+> https://github.com/box/box-ios-content-sdk
+
 BoxSDK: Box API V2 iOS SDK
 ==========================
 
